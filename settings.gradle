@@ -1,0 +1,3 @@
+rootProject.name = 'smsaero-client'
+
+include 'smsaero-core'

@@ -1,0 +1,9 @@
+dependencies {
+    implementation "org.jetbrains:annotations:$vers.jetbrains"
+    implementation "com.fasterxml.jackson.core:jackson-databind:$vers.jackson"
+    implementation "org.apache.httpcomponents.client5:httpclient5:$vers.httpclient"
+    implementation "org.apache.commons:commons-io:$vers.commonsio"
+
+    implementation "ch.qos.logback:logback-core:$vers.logback"
+    implementation "ch.qos.logback:logback-classic:$vers.logback"
+}
